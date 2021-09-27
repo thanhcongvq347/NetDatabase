@@ -1,0 +1,11 @@
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\bin\Debug\18103013_BaiTap03.exe
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\bin\Debug\18103013_BaiTap03.pdb
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\_18103013_BaiTap03.Properties.Resources.resources
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\18103013_BaiTap03.csproj.GenerateResource.Cache
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\18103013_BaiTap03.exe
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\18103013_BaiTap03.pdb
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\_18103013_BaiTap03.Form1.resources
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\18103013_BaiTap03.csprojResolveAssemblyReference.cache
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\_18103013_BaiTap03.Form2.resources
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\bin\Debug\18103013_BaiTap03.exe.config
+D:\Exercise\.Net(Thầy Thắng)\18103013_BaiTap03\obj\x86\Debug\_18103013_BaiTap03.Form3.resources
